@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+🔭 I’m currently working on python and experimenting with AI
+🌱 I’m currently learning ai interpretation, python, backend and AWS
+👯 I’m looking to collaborate on interesting stuff, somthing that is non mainstream
+💬 Ask me about my interest in astrophotography
+📫 How to reach me: email: samarthpusalkar@gmail.com
 <!--
 **samarthpusalkar/samarthpusalkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
